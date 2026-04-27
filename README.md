@@ -2,9 +2,9 @@
 
 ---
 
-This repository contains the implementation of **PROBE**, a multi-objective search-based approach for robustness testing of object detection models in industrial robotic systems. The approach generates **minimal and localized perturbations** to uncover failure-inducing conditions and assess model stability.
+This repository contains the implementation of **PROBE**, a multi-objective search-based approach for robustness testing of object detection models in laptop refurbishing robotic software. The approach generates **minimal and localized perturbations** to uncover failure-inducing conditions and assess model stability.
 
-<p align="center">
+<p align="center" style="background-color:white; padding:10px; border-radius:8px;">
   <img src="assets/dti-overview.png" alt="PROBE Overview" width="800"/>
 </p>
 
